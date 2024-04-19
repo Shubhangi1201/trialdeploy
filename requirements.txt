@@ -1,2 +1,1 @@
-flask
-gnuicorn
+flask==3.0.3
